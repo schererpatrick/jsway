@@ -1,2 +1,4 @@
-console.log("Patrick");
-console.log(31);
+console.log(6 + 3);
+console.log(6 - 3);
+console.log(6 * 3);
+console.log(6 / 3);
