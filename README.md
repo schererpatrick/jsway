@@ -1,1 +1,1 @@
-exercises from the jsway book
+https://github.com/thejsway/thejsway-code
