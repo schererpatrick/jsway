@@ -1,14 +1,10 @@
-const nb1 = Number(prompt("Enter first number:"));
-const nb2 = Number(prompt("Enter second number:"));
+const number1 = Number(prompt("Enter number 1:"));
+const number2 = Number(prompt("Enter number 2:"));
 
-if ( nb1 === nb2 ) {
-    console.log("numbers are equal")
-}
-
-if ( nb1 > nb 2) {
-    console.log("number 1 is greater")
-}
-
-if ( nb 1 < nb 2) {
-    console.log("number 2 is greater")
+if (number1 < number2) {
+  console.log(`${number1} is less than ${number2}`);
+} else if (number1 > number2) {
+  console.log(`${number1} is greater than ${number2}`);
+} else {
+  console.log(`${number1} and ${number2} are equal`);
 }
