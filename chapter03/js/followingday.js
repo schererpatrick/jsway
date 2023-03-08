@@ -22,5 +22,5 @@ case "Sunday":
 console.log("Monday is the following day");
 break;
 default:
-    console.log("Not a valid weather type");
+    console.log("Not a valid day");
 }
