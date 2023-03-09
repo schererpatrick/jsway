@@ -3,6 +3,6 @@ for (let i = 1; i <= 10; i++) {
     console.log(`${i} is even`);
     }
     else {
-        console.log(`$(i) is not even`);
+        console.log(`${i} is not even`);
     }
     }
